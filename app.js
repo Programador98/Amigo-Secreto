@@ -11,13 +11,8 @@ function agregarAmigo(){
         listaAmigos.push(nombre);
         actualizarLista();
         console.log(listaAmigos);
-        limpiarCaja();
+        document.getElementById('amigo').value="";
     }
-}
-
-//Limpia el input
-function limpiarCaja(){
-    document.getElementById('amigo').value="";
 }
 
 //Actualiza y muestra los nombres en formato de lista
@@ -30,4 +25,35 @@ function actualizarLista() {
         li.textContent = listaAmigos[i]; 
         ul.appendChild(li); 
     }
+}
+
+//Sortear al Amigo Secreto
+function sortearAmigo(){
+    if(listaAmigos.length===0){
+        alert('No hay ningun nombre agregado, Agregue un nombre')
+    }else {
+        console.log(listaAmigos)
+        let amigoSorteado = Math.floor(Math.random()*listaAmigos.length);
+        let ul = document.getElementById('resultado');
+        let li = document.createElement('li');
+        li.textContent = listaAmigos[amigoSorteado];
+        ul.appendChild(li);
+    }
+}
+
+//Reinicia todo el juego
+function reiniciar(){
+    //Eliminamos todos los elementos del arreglo
+    listaAmigos = [];
+    
+    //Eliminamos todos los nombres de los amigos
+    let ul = document.getElementById("listaAmigos");
+    while(ul.firstChild){
+        ul.removeChild(ul.firstChild);
+    }
+
+    //Eliminar el nombre sorteado
+    let ul2 = document.getElementById('resultado');
+    ul2.removeChild(ul2.firstChild);
+
 }
