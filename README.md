@@ -127,11 +127,17 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 
 ### Funcionalidades
 - `Agregar Nombres`: Los usuarios podrán escribir el *nombre de sus amigos* en el campo de texto y los agregaran a una lista dando clic en **añadir**.
+
 - `Validación de Nombres`: Si no se a escrito nada en el campo de texto y aún asi se da clic en **añadir**, entonces mostrará un mensaje para que *escriba un nombre correcto*.
+
 - `Visualizar Lista`: Todos los usuarios que se *añadan*, se mostrarán como listado debajo del campo de texto.
+
 - `Selección Aleatoria`: Al dar clic en el boton **Sortear amigo**, se elegirá un nombre aleatoriamente del listado agregado y se mostrará en la pantalla.
+
 - `Reiniciar`: Al dar clic en **Reiniciar**, se borrará la lista de amigos agregados y también el amigo secreto.
+
 - `Interactivo`: Solo se mostrará el *listado de amigos* cuando se agregue alguno al dar clic en **añadir**.
+
 
 ### Video Demostrativo
 <video src="/assets/Readme/VideoDemostracion.mp4" controls autoplay  width="500"></video>
