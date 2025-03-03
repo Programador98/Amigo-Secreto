@@ -140,7 +140,7 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 
 
 ### Video Demostrativo
-<video src="/assets/Readme/VideoDemostracion.mp4" controls autoplay  width="500"></video>
+![Video Demostrativo](https://youtu.be/cjRRujHb0hs)
 
 ## Acceso
 1. Accede al proyecto [Enlace 🔗](https://github.com/Programador98/Amigo-Secreto) y descargalo en formato *zip*.
