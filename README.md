@@ -163,26 +163,33 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 ![Paso6](assets/Readme/Paso6.gif)
 
 ## Tecnologías utilizadas
+<img src="/assets/Readme/html.png" alt="html" width= "40px" height= "40px">
+- HTML 
 
-- HTML <img src="/assets/Readme/html.png" alt="html" style="width: 40px; height: 40px;">
-- CSS  <img src="/assets/Readme/css.png" alt="css" style="width: 40px; height: 40px;">
-- JavaScript <img src="/assets/Readme/js.png" alt="javascript" style="width: 40px; height: 40px;">
+<img src="/assets/Readme/css.png" alt="css" width= "40px" height= "40px">
+- CSS 
+
+<img src="/assets/Readme/js.png" alt="javascript" width= "40px" height= "40px">
+- JavaScript 
 
 ## Developers
-El proyecto exite gracias a ⤵️
+<p>El proyecto exite gracias a ⤵️</p>
+
 <a href="https://github.com/Programador98">
-  <img src="https://github.com/Programador98.png?size=100" 
-       alt="Vicente"
-       style="border-radius: 10px; width: 100px; height: 100px; display: block; margin: 0 auto;">
+  <img src="https://github.com/Programador98.png" width="100px" height="100px" alt="Vicente">
 </a>
-<p align="center"><b>Vicente - Programador98</b></p>
+<p><b>Vicente - Programador98</b></p>
 
 
 ## Sponsors
 Proyecto realizado como desafio en la formación de ONE y Alura Latam, con el objetivo de aplicar todo lo aprendido de los conceptos básico de JavaScript. Thanks
 
-<img src="/assets/Readme/alura-latam.jpg" alt="Aluta-latam" style="width:80px; height:80px">
-<img src="/assets/Readme/one.png" alt="One-next-education" style="width:160px; height:80px">
+<table>
+  <tr>
+    <td><img src="/assets/Readme/alura-latam.jpg" alt="Alura Latam" width="80"></td>
+    <td><img src="/assets/Readme/one.png" alt="ONE Next Education" width="160"></td>
+  </tr>
+</table>
 
 
 ### Thank you for being interested in my project
