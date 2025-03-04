@@ -14,7 +14,7 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 ## Características y Demostración
 
 ### Propiedades Adicionales Usados en el proyecto
-#### Agregar los Amigos secretos a <li></li>
+#### Agregar los Amigos secretos a li
 - Se debe agregar cada nombre al nuevo **li** que se creará, este proceso se realizo usando **element.textContent = "Texto”**.
     
     **Ejemplo:**
@@ -96,7 +96,7 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
         
         - Verificamos que exista un nombre agregado, de lo contrario se mostrará una alerta en la pantalla.
 
-#### Eliminar varios elementos <li></li>
+#### Eliminar varios elementos li
 
 - Para eliminar todos los elementos **li** que se encuentran dentro de un **ul**, usaremos:
     - Para que devuelva el primer elemento:  **.firstChild**.
@@ -140,42 +140,49 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 
 
 ### Video Demostrativo
-![Video Demostrativo](https://youtu.be/cjRRujHb0hs)
+[![Mira el video](https://img.youtube.com/vi/cjRRujHb0hs/maxresdefault.jpg)](https://www.youtube.com/watch?v=cjRRujHb0hs)
+
 
 ## Acceso
 1. Accede al proyecto [Enlace 🔗](https://github.com/Programador98/Amigo-Secreto) y descargalo en formato *zip*.
-![Primer paso](/assets/Readme/Paso1.gif)
+![Paso1](/assets/Readme/Paso1.gif)
 
 2. Descomprime el archivo. Puedes usar programas como [Winrar](https://winrar.es/descargas) para hacerlo.
-![Segundo paso](/assets/Readme/Paso2.gif)
+![Paso2](assets/Readme/Paso2.gif)
 
 3. Accede al proyecto desde **Visual Studio Code**.
-![Tercer paso](/assets/Readme/Paso3.gif)
+![Paso3](assets/Readme/Paso3.gif)
 
 4. Debes permitir el proyecto.
-![Cuarto paso](/assets/Readme/Paso4.png)
+![Paso4](assets/Readme/Paso4.png)
 
 5. Descarga la extension **Live Server** desde **Visual Studio Code**.
-![Quinto paso](/assets/Readme/Paso5.png)
+![Paso5](assets/Readme/Paso5.png)
 
 6. Ubicate en el archivo **.html** ,y para ejecutar el proyecto en el navegador *clic* en **Go Live**.
-![Sexto paso](/assets/Readme/Paso6.gif)
+![Paso6](assets/Readme/Paso6.gif)
 
 ## Tecnologías utilizadas
 
-- HTML ![html](/assets/Readme/html.png)
-- CSS ![css](/assets/Readme/css.png)
-- JavaScript ![javascript](/assets/Readme/js.png)
+- HTML <img src="/assets/Readme/html.png" alt="html" style="width: 40px; height: 40px;">
+- CSS  <img src="/assets/Readme/css.png" alt="css" style="width: 40px; height: 40px;">
+- JavaScript <img src="/assets/Readme/js.png" alt="javascript" style="width: 40px; height: 40px;">
 
 ## Developers
-[![Vicente](https://github.com/Programador98.png?size=100)](https://github.com/Programador98)
+El proyecto exite gracias a ⤵️
+<a href="https://github.com/Programador98">
+  <img src="https://github.com/Programador98.png?size=100" 
+       alt="Vicente"
+       style="border-radius: 10px; width: 100px; height: 100px; display: block; margin: 0 auto;">
+</a>
+<p align="center"><b>Vicente - Programador98</b></p>
+
 
 ## Sponsors
 Proyecto realizado como desafio en la formación de ONE y Alura Latam, con el objetivo de aplicar todo lo aprendido de los conceptos básico de JavaScript. Thanks
 
-![Aluralatam](/assets/Readme/alura-latam.jpg)
-
-![ONEnexteducation](/assets/Readme/one.png)
+<img src="/assets/Readme/alura-latam.jpg" alt="Aluta-latam" style="width:80px; height:80px">
+<img src="/assets/Readme/one.png" alt="One-next-education" style="width:160px; height:80px">
 
 
 ### Thank you for being interested in my project
