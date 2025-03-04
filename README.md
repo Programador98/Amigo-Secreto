@@ -140,7 +140,9 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 
 
 ### Video Demostrativo
-[![Mira el video](https://img.youtube.com/vi/cjRRujHb0hs/maxresdefault.jpg)](https://www.youtube.com/watch?v=cjRRujHb0hs)
+<a href="https://www.youtube.com/watch?v=cjRRujHb0hs" target="_blank">
+  <img src="https://img.youtube.com/vi/cjRRujHb0hs/maxresdefault.jpg" alt="Video demostrativo">
+</a>
 
 
 ## Acceso
@@ -164,12 +166,15 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 
 ## Tecnologías utilizadas
 <img src="/assets/Readme/html.png" alt="html" width= "40px" height= "40px">
+
 - HTML 
 
 <img src="/assets/Readme/css.png" alt="css" width= "40px" height= "40px">
+
 - CSS 
 
 <img src="/assets/Readme/js.png" alt="javascript" width= "40px" height= "40px">
+
 - JavaScript 
 
 ## Developers
@@ -184,12 +189,13 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 ## Sponsors
 Proyecto realizado como desafio en la formación de ONE y Alura Latam, con el objetivo de aplicar todo lo aprendido de los conceptos básico de JavaScript. Thanks
 
-<table>
-  <tr>
-    <td><img src="/assets/Readme/alura-latam.jpg" alt="Alura Latam" width="80"></td>
-    <td><img src="/assets/Readme/one.png" alt="ONE Next Education" width="160"></td>
-  </tr>
-</table>
+<a href="" target="_blank">
+<img src="/assets/Readme/alura-latam.jpg" alt="Alura Latam" width="80">
+</a>
+<a href="" target="_blank">
+<img src="/assets/Readme/one.png" alt="ONE Next Education" width="160">
+</a>
+
 
 
 ### Thank you for being interested in my project
