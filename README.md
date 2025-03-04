@@ -167,20 +167,20 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 
 ## Tecnologías utilizadas
 
-<p>
+
 <img src="/assets/Readme/html.png" alt="html" width= "60px" height= "60px">
 <b>HTML</b>
-</p>
 
-<p>
+
+
 <img src="/assets/Readme/css.png" alt="css" width= "60px" height= "60px">
 <b>CSS</b> 
-</p>
 
-<p>
+
+
 <img src="/assets/Readme/js.png" alt="javascript" width= "60px" height= "60px">
 <b>JavaScript</b>
-</p>
+
 
 
 ## Developers
