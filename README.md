@@ -166,31 +166,39 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 ![Paso6](assets/Readme/Paso6.gif)
 
 ## Tecnologías utilizadas
+
+<p>
 <img src="/assets/Readme/html.png" alt="html" width= "60px" height= "60px">
-HTML 
+<b>HTML</b>
+</p>
 
+<p>
 <img src="/assets/Readme/css.png" alt="css" width= "60px" height= "60px">
-CSS 
+<b>CSS</b> 
+</p>
 
+<p>
 <img src="/assets/Readme/js.png" alt="javascript" width= "60px" height= "60px">
-JavaScript 
+<b>JavaScript</b>
+</p>
+
 
 ## Developers
 <p>El proyecto exite gracias a ⤵️</p>
 
-<a href="https://github.com/Programador98">
+<p><a href="https://github.com/Programador98">
   <img src="https://github.com/Programador98.png" width="100px" height="100px" alt="Vicente">
 </a>
 <p><b>Programador98</b></p>
+<p>
 
 
 ## Sponsors
 Proyecto realizado como desafio en la formación de **ONE - Oracle** y **Alura Latam**, con el objetivo de aplicar todo lo aprendido de los conceptos básico de JavaScript. Thanks
 
 <a href="https://www.aluracursos.com/" target="_blank">
-<img src="/assets/Readme/alura-latam.jpg" alt="Alura Latam" width="80px" height="80px" hspace="10">
-</a>
-<a href="https://www.oracle.com/pe/education/" target="_blank">
+<img src="/assets/Readme/alura-latam.jpg" alt="Alura Latam" width="80px" height="80px" hspace="17">
+</a><a href="https://www.oracle.com/pe/education/" target="_blank">
 <img src="/assets/Readme/one.png" alt="ONE Next Education" width="160px" height="80px">
 </a>
 
