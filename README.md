@@ -140,6 +140,7 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 
 
 ### Video Demostrativo
+- Para abrir en otra pestaña **Ctrl + clic**.
 <a href="https://www.youtube.com/watch?v=cjRRujHb0hs" target="_blank">
   <img src="https://img.youtube.com/vi/cjRRujHb0hs/maxresdefault.jpg" alt="Video demostrativo">
 </a>
@@ -165,17 +166,14 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 ![Paso6](assets/Readme/Paso6.gif)
 
 ## Tecnologías utilizadas
-<img src="/assets/Readme/html.png" alt="html" width= "40px" height= "40px">
+<img src="/assets/Readme/html.png" alt="html" width= "60px" height= "60px">
+HTML 
 
-- HTML 
+<img src="/assets/Readme/css.png" alt="css" width= "60px" height= "60px">
+CSS 
 
-<img src="/assets/Readme/css.png" alt="css" width= "40px" height= "40px">
-
-- CSS 
-
-<img src="/assets/Readme/js.png" alt="javascript" width= "40px" height= "40px">
-
-- JavaScript 
+<img src="/assets/Readme/js.png" alt="javascript" width= "60px" height= "60px">
+JavaScript 
 
 ## Developers
 <p>El proyecto exite gracias a ⤵️</p>
@@ -183,17 +181,17 @@ El proyecto es una aplicación que te permite agregar los nombres de tus amigos(
 <a href="https://github.com/Programador98">
   <img src="https://github.com/Programador98.png" width="100px" height="100px" alt="Vicente">
 </a>
-<p><b>Vicente - Programador98</b></p>
+<p><b>Programador98</b></p>
 
 
 ## Sponsors
-Proyecto realizado como desafio en la formación de ONE y Alura Latam, con el objetivo de aplicar todo lo aprendido de los conceptos básico de JavaScript. Thanks
+Proyecto realizado como desafio en la formación de **ONE - Oracle** y **Alura Latam**, con el objetivo de aplicar todo lo aprendido de los conceptos básico de JavaScript. Thanks
 
-<a href="" target="_blank">
-<img src="/assets/Readme/alura-latam.jpg" alt="Alura Latam" width="80">
+<a href="https://www.aluracursos.com/" target="_blank">
+<img src="/assets/Readme/alura-latam.jpg" alt="Alura Latam" width="80px" height="80px" hspace="10">
 </a>
-<a href="" target="_blank">
-<img src="/assets/Readme/one.png" alt="ONE Next Education" width="160">
+<a href="https://www.oracle.com/pe/education/" target="_blank">
+<img src="/assets/Readme/one.png" alt="ONE Next Education" width="160px" height="80px">
 </a>
 
 
